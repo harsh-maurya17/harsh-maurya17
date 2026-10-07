@@ -1,24 +1,197 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Developing a Chat with PDF application using Next.js, integrating Natural Language Processing (NLP) and vector embeddings to facilitate semantic search and context-aware interactions with documents. I'm also building advanced MERN stack applications like a Text-to-Image Generator powered by OpenAI APIs, and a WebRTC-based Real-time Communication Platform for seamless video and chat functionality.<br><br>👯 I’m looking to collaborate on:<br>Projects involving AI-driven web applications, cloud-native development, and end-to-end product engineering using modern full-stack and deployment architectures.<br><br>🤝 I’m looking for help with:<br>Scaling my skills in DevOps and Cloud Computing — particularly with Docker, Kubernetes, CI/CD automation, Infrastructure as Code (Terraform), and deploying secure, scalable systems on AWS/GCP.<br><br>🌱 I’m currently learning:<br>DevOps and Cloud Computing — exploring CI/CD pipelines, containerization with Docker, orchestration with Kubernetes, cloud services on AWS/GCP, and Infrastructure as Code (IaC) tools like Terraform. Simultaneously, I’m strengthening my grasp on DSA in C++, system design, and other core computer science fundamentals.<br><br>💬 Ask me about:<br>Building modular and scalable MERN/Next.js apps, integrating AI models into web apps, writing clean C++ DSA solutions, or deploying projects using DevOps best practices.
+# 👋 Hey, I'm Harsh Maurya
 
+### `Full-Stack Developer` · `GenAI Engineer` · `Problem Solver`
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-maurya-5aa16628a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshmaurya8970@gmail.com) 
+> I build **AI-powered products, scalable web applications, and intelligent systems** — with a focus on **Generative AI, Agentic AI, system design, and cloud-native engineering**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh-maurya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harsh-maurya17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-maurya17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harsh-maurya17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-maurya-5aa16628/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshmaurya8970@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-maurya17)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh-maurya17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Build
+
+I enjoy taking an idea from **architecture → implementation → deployment**.
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                         ENGINEERING FOCUS                        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  🤖 Generative AI       → LLMs • RAG • Agents • AI Workflows   │
+│  🧠 Agentic AI          → AI Agents • Tool Use • MCP • Memory  │
+│  🔎 AI Engineering      → Embeddings • Vector Search • NLP     │
+│  🌐 Full-Stack          → MERN • Next.js • TypeScript          │
+│  🏗️ System Design      → APIs • Scalability • Distributed System │
+│  ⚡ Real-Time Systems   → WebRTC • WebSockets • GraphQL       │
+│  ☁️ Cloud & DevOps      → Docker • AWS • CI/CD • Linux        │
+│  🧩 Problem Solving     → C++ • DSA • Competitive Programming  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 Areas I Work With
+
+| Domain | Focus |
+|---|---|
+| 🤖 **Generative AI** | LLMs, RAG, prompt engineering, embeddings, vector databases |
+| 🧠 **Agentic AI** | AI agents, tool calling, workflows, memory, MCP |
+| 🔎 **AI Engineering** | NLP, semantic search, context-aware applications |
+| 🏗️ **System Design** | Scalable APIs, distributed systems, caching, queues, databases |
+| 🌐 **Full Stack** | MERN, Next.js, TypeScript, REST APIs |
+| ⚡ **Real-Time** | WebRTC, WebSockets, GraphQL |
+| ☁️ **Cloud & DevOps** | Docker, AWS, CI/CD, Linux, Nginx |
+| 🧩 **DSA & CP** | C++, algorithms, data structures, problem solving |
+
+---
+
+# 🛠️ My Toolbox
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+### 🤖 AI / GenAI / Agentic AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+`LLMs` · `Generative AI` · `RAG` · `AI Agents` · `Agentic Workflows` · `Prompt Engineering` · `Embeddings` · `Vector Search` · `NLP` · `Semantic Search` · `Tool Calling` · `MCP`
+
+### 🏗️ System Design & Core CS
+
+`System Design` · `Distributed Systems` · `Scalability` · `Microservices` · `Caching` · `Message Queues` · `Load Balancing` · `Database Design` · `API Design` · `DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+
+### 🗄️ Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+`MongoDB` · `PostgreSQL` · `Redis` · `Convex` · `Database Design` · `Indexing` · `Query Optimization`
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+`AWS` · `Docker` · `Nginx` · `CI/CD` · `Linux` · `Cloud Deployment`
+
+### 🔧 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+`Git` · `GitHub` · `Postman` · `NPM` · `API Testing` · `Version Control`
+
+---
+
+## 🏗️ Engineering Mindset
+
+```text
+        ┌──────────────┐
+        │     IDEA     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │  ARCHITECT   │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    BUILD     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    SCALE     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   DEPLOY     │
+        └──────┬───────┘
+               ↓
+           IMPROVE ↺
+```
+
+> **Build → Break → Understand → Scale → Improve.**
+
+---
+
+## 🧩 How I Think
+
+```cpp
+while (alive) {
+
+    learn();
+    build();
+    breakThings();
+    debug();
+    scale();
+    improve();
+
+}
+```
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+**GenAI × Agentic AI × Full Stack × System Design × Cloud**
+
+If you're building something ambitious, let's build it.
+
+<p align="center">
+  <b>💡 Ideas are cheap. Shipping is the skill.</b>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-maurya17&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-maurya17&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harsh-maurya17&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh-maurya17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
