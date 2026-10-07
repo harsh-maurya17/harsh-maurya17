@@ -4,7 +4,7 @@
 
 > I build **AI-powered products, scalable web applications, and intelligent systems** — with a focus on **Generative AI, Agentic AI, system design, and cloud-native engineering**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-maurya-5aa16628/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-maurya-5aa16628a/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshmaurya8970@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harsh-maurya17)
 
